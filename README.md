@@ -3,7 +3,7 @@
 + Maria DB
 + Spring
 + Lombok
-
+---
 ### Mybatis 특징
 > 데이터베이스 프레임워크(Mybatis, JPA)로 가장 많이 쓰이는 기술 중 하나
 1. Mapper 사용 (JPA는 Repository)
